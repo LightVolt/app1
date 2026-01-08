@@ -1,9 +1,7 @@
-import logo from './logo.svg';
-import { Content, Footer, Header } from './func-components.js';
-import { Calculator2 } from './calculator';
+import { EventData2 } from './event-data';
 
 function App() {
-  return <Calculator2/>
+  return <EventData2/>
 }
 
 export default App;
