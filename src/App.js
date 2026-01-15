@@ -1,7 +1,7 @@
-import RefsArray from './refs-array';
+import MessageBox from './state-func';
 
 function App() {
-  return <RefsArray/>
+  return <MessageBox/>
 }
 
 export default App;
