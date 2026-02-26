@@ -1,10 +1,9 @@
 import React from "react";
+import FormSelectFile from "./form-select-file";
 
-import Router3 from "./router3";
-import FormText from "./form-text";
 
 function App() {
-  return <FormText/>
+  return <FormSelectFile/>
 }
 
 export default App;
